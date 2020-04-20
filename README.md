@@ -1,6 +1,4 @@
 Meu primeiro sistema do GIT
+Atualização do README.
 
-
-Alteração do readme para descrever melhor meu sistema.
-
-Criação da pasta assets para locar os arquivos css e js ou images
+Veja como ficou.
