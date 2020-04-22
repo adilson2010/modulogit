@@ -1,4 +1,2 @@
-Meu primeiro sistema do GIT
-Atualização do README.
+Meu primeiro sistema do GIT (alterado e atualizado)
 
-Veja como ficou.
